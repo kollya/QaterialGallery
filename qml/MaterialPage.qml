@@ -131,7 +131,7 @@ Qaterial.Page
         title: "Sliders";
         text: "Dialogs inform users about a task and can contain critical information, require decisions, or involve multiple tasks."
         icon: "qrc:/QaterialGallery/images/icons/dialog.svg"
-        source: "qrc:/QaterialGallery/DialogPage.qml"
+        source: "qrc:/QaterialGallery/SlidersPage.qml"
       } // ListElement
       ListElement
       {
@@ -146,7 +146,7 @@ Qaterial.Page
         text: "Item delegate than call a dialog"
         icon: "qrc:/QaterialGallery/images/icons/delegate.svg"
         source: "qrc:/QaterialGallery/DialogDelegatePage.qml"
-      }
+      } //ListElement
       /*ListElement
       {
         title: "Fader";
